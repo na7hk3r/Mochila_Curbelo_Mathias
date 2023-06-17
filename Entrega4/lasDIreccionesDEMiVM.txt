@@ -1,0 +1,8 @@
+IP Privada 10.0.2.255
+
+IP Publica: 127.0.0.1
+
+Direccion MAC 08:00:27:8b:5d:05
+
+Si, es diferente a la ip publica y privada asi como direcciòn mac de mi s.o. principal, 
+ya que la maquina virtual se encuentra en un entorno aislado y seguro.
